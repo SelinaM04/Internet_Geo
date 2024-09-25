@@ -18,4 +18,3 @@ console.log(number4.length);
 let string1 = 'We cannot think of a time that is oceanless';
 let string2 = 'Or of an ocean not littered with wastage';
 
-let 

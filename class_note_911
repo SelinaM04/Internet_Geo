@@ -1,0 +1,21 @@
+let w1 = 5;
+let h1 = 10;
+let w2 = 10;
+let h2 = 8;
+
+let a1 = w1 * h1;
+
+function rectArea(width, height) {
+    let area = width * height;
+    return area;
+
+}
+
+console.log(recArea(width,height));
+
+let fruitArray = ['apple', 'banana', 'orange', 'peach', 'straberry'];
+
+for (let i = 0; i < fruitAraay.length; i++) {
+
+    console.log(fruitArray[i]);
+}
